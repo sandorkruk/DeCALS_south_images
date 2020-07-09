@@ -10,3 +10,6 @@ The Jupyter Notebook is based on https://github.com/zooniverse/decals/blob/maste
 (2) produces colour image, consistent with previous DeCALS images on Galaxy Zoo 
 (3) the images are scaled with radius, computed as: radius = fdeV*shapedeVr+(1- fdeV)*shapeexpr
 (4) Observations: 2% of images are contaminated by stars (selected with surface brightness, mu<18 mag/arcsec^2) and 4% of galaxies have radius>7.5" (many of which will be wrong size measurements)
+
+
+More details: https://docs.google.com/document/d/19yxMZPXdwkoIpuIGZ2qEzFQpy2iKxEZZMExmf9aSHyc/edit?usp=sharing and example images: https://drive.google.com/drive/folders/18erW7sM5GcK_qaeJojn4oByCnor_MYZt?usp=sharing
